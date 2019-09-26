@@ -1,0 +1,40 @@
+{
+  "name": "emailjs-com",
+  "description": "Send emails using predefined templates and your private email account",
+  "main": "dist/email.js",
+  "authors": [
+    "Sergey Khomushin <sergey@emailjs.com> (https://www.emailjs.com)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "js email",
+    "es6 email",
+    "ts email",
+    "javascript email",
+    "typescript email",
+    "emailjs",
+    "email templates",
+    "send email",
+    "send email from js",
+    "emailjs-com"
+  ],
+  "homepage": "https://www.emailjs.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "version": "2.3.2",
+  "_release": "2.3.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "2.3.2",
+    "commit": "45c54ca0034b9886f2ccb1afe5de4c8529338475"
+  },
+  "_source": "https://github.com/emailjs-com/emailjs-sdk.git",
+  "_target": "^2.3.2",
+  "_originalSource": "emailjs-com",
+  "_direct": true
+}
